@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishwar-mohan&label=Profile%20views&color=0e75b6&style=flat" alt="ishwar-mohan" /> </p>
 
-<p align="left" width="800"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishwar-mohan" alt="ishwar-mohan" /></a> </p>
+<p align="left" width="500"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishwar-mohan" alt="ishwar-mohan" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://ishwar-mohan.netlify.app/](https://ishwar-mohan.netlify.app/)
 
