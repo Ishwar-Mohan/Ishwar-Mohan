@@ -3,11 +3,12 @@
         alt="GeeksforGeeks logo" width="1200" height="350">
 <h1 align="center">Hi 👋, I'm Ishwar Mohan</h1>
 <h3 align="center">An Aspiring Full Stack Developer with 1 year experience in Software Development as strong in design and integration with intuitive problem-solving skills.</h3>
-<img align="right" alt="Coding" width="200" src="https://miro.medium.com/max/828/0*B1hU4cYeBV3sPsTn">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishwar-mohan&label=Profile%20views&color=0e75b6&style=flat" alt="ishwar-mohan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishwar-mohan" alt="ishwar-mohan" /></a> </p>
+
+<img align="right" alt="Coding" width="300" src="https://miro.medium.com/max/828/0*B1hU4cYeBV3sPsTn">
 
 - 👨‍💻 All of my projects are available at [https://ishwar-mohan.netlify.app/](https://ishwar-mohan.netlify.app/)
 
