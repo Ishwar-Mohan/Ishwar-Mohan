@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishwar-mohan&label=Profile%20views&color=0e75b6&style=flat" alt="ishwar-mohan" /> </p>
 
-<img align="right" alt="Coding" width="300" src="https://miro.medium.com/max/828/0*B1hU4cYeBV3sPsTn">
+<img align="right" alt="Coding" width="300" height="200" src="https://miro.medium.com/max/828/0*B1hU4cYeBV3sPsTn">
 
 - 👨‍💻 All of my projects are available at [https://ishwar-mohan.netlify.app/](https://ishwar-mohan.netlify.app/)
 
