@@ -2,7 +2,7 @@
 "https://i.pinimg.com/originals/e0/58/ee/e058eecc0652ff38a4e7062cfcf08c9d.gif"
         alt="GeeksforGeeks logo" width="1200" height="350">
         <h1 align="center">Hi 👋, I'm Ishwar Mohan</h1>
-        <h3 align="center">An Aspiring Full Stack Developer with 1 year experience in Software Development as strong in design and integration with intuitive problem-solving skills.</h3>
+        <h3 align="center">An Aspiring Full Stack Developer with 1.5 year experience in Software Development as strong in design and integration with intuitive problem-solving skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishwar-mohan&label=Profile%20views&color=0e75b6&style=flat" alt="ishwar-mohan" /> </p>
 
